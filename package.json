@@ -1,0 +1,19 @@
+{
+  "name": "my-character-sheet",
+  "version": "1.0.0",
+  "description": "A fun D&D themed site for my personal URL: maxtrenkle.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxTrenkle/my-character-sheet.git"
+  },
+  "author": "Max Trenkle <maxtrenkle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxTrenkle/my-character-sheet/issues"
+  },
+  "homepage": "https://github.com/MaxTrenkle/my-character-sheet#readme"
+}
